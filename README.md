@@ -1,5 +1,7 @@
 # Hope Builder Site
-Site live on -- ngohope.netlify.app
+
+# Site live on -- https://ngohope.netlify.app/
+
 ## Project info
 
 This project is a web application built with modern technologies.
